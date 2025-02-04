@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesAppConsoleClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E039D48A-797C-4306-9DB8-4F1B65A98B22}|NotesAppConsoleClient\\NotesAppConsoleClient.csproj|c:\\users\\soske\\desktop\\notesapp\\notesappconsoleclient\\notesappconsoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E039D48A-797C-4306-9DB8-4F1B65A98B22}|NotesAppConsoleClient\\NotesAppConsoleClient.csproj|solutionrelative:notesappconsoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E039D48A-797C-4306-9DB8-4F1B65A98B22}|NotesAppConsoleClient\\NotesAppConsoleClient.csproj|c:\\users\\soske\\desktop\\notesapp\\notesappconsoleclient\\notesappconsoleclient\\notesappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E039D48A-797C-4306-9DB8-4F1B65A98B22}|NotesAppConsoleClient\\NotesAppConsoleClient.csproj|solutionrelative:notesappconsoleclient\\notesappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E039D48A-797C-4306-9DB8-4F1B65A98B22}|NotesAppConsoleClient\\NotesAppConsoleClient.csproj|c:\\users\\soske\\desktop\\notesapp\\notesappconsoleclient\\notesappconsoleclient\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E039D48A-797C-4306-9DB8-4F1B65A98B22}|NotesAppConsoleClient\\NotesAppConsoleClient.csproj|solutionrelative:notesappconsoleclient\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesAppConsoleClient\\NotesAppConsoleClient\\Program.cs",
+              "RelativeDocumentMoniker": "NotesAppConsoleClient\\Program.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesAppConsoleClient\\NotesAppConsoleClient\\Program.cs",
+              "RelativeToolTip": "NotesAppConsoleClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:16:35.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesAppService.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesAppConsoleClient\\NotesAppConsoleClient\\NotesAppService.cs",
+              "RelativeDocumentMoniker": "NotesAppConsoleClient\\NotesAppService.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesAppConsoleClient\\NotesAppConsoleClient\\NotesAppService.cs",
+              "RelativeToolTip": "NotesAppConsoleClient\\NotesAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:16:11.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesAppConsoleClient\\NotesAppConsoleClient\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "NotesAppConsoleClient\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesAppConsoleClient\\NotesAppConsoleClient\\ConsoleHelper.cs",
+              "RelativeToolTip": "NotesAppConsoleClient\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:16:05.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

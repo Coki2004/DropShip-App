@@ -1,0 +1,698 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8445B24D-E2AD-4015-8E59-BE92008EA048}|NotesApp.Services\\NotesApp.Services.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8445B24D-E2AD-4015-8E59-BE92008EA048}|NotesApp.Services\\NotesApp.Services.csproj|solutionrelative:notesapp.services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8445B24D-E2AD-4015-8E59-BE92008EA048}|NotesApp.Services\\NotesApp.Services.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.services\\implementation\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8445B24D-E2AD-4015-8E59-BE92008EA048}|NotesApp.Services\\NotesApp.Services.csproj|solutionrelative:notesapp.services\\implementation\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.shared\\configuration\\notesappsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|solutionrelative:notesapp.shared\\configuration\\notesappsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6B6676-E626-4A5C-A0EF-4FC785988D92}|NotesApp.Helpers\\NotesApp.Helpers.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.helpers\\configurationshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6B6676-E626-4A5C-A0EF-4FC785988D92}|NotesApp.Helpers\\NotesApp.Helpers.csproj|solutionrelative:notesapp.helpers\\configurationshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6B6676-E626-4A5C-A0EF-4FC785988D92}|NotesApp.Helpers\\NotesApp.Helpers.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6B6676-E626-4A5C-A0EF-4FC785988D92}|NotesApp.Helpers\\NotesApp.Helpers.csproj|solutionrelative:notesapp.helpers\\dependencyinjectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FB5DB-17CD-4C9D-B2E6-A51DB78A6BF3}|NoteApp.Dto\\NotesApp.Dto.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\noteapp.dto\\userdto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FB5DB-17CD-4C9D-B2E6-A51DB78A6BF3}|NoteApp.Dto\\NotesApp.Dto.csproj|solutionrelative:noteapp.dto\\userdto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FB5DB-17CD-4C9D-B2E6-A51DB78A6BF3}|NoteApp.Dto\\NotesApp.Dto.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\noteapp.dto\\userdto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FB5DB-17CD-4C9D-B2E6-A51DB78A6BF3}|NoteApp.Dto\\NotesApp.Dto.csproj|solutionrelative:noteapp.dto\\userdto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FB5DB-17CD-4C9D-B2E6-A51DB78A6BF3}|NoteApp.Dto\\NotesApp.Dto.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\noteapp.dto\\notedto\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FB5DB-17CD-4C9D-B2E6-A51DB78A6BF3}|NoteApp.Dto\\NotesApp.Dto.csproj|solutionrelative:noteapp.dto\\notedto\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FB5DB-17CD-4C9D-B2E6-A51DB78A6BF3}|NoteApp.Dto\\NotesApp.Dto.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\noteapp.dto\\notedto\\addnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FB5DB-17CD-4C9D-B2E6-A51DB78A6BF3}|NoteApp.Dto\\NotesApp.Dto.csproj|solutionrelative:noteapp.dto\\notedto\\addnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821EAF8-6C09-482E-B8E3-06C61968D9FF}|NotesApp.Domain\\NotesApp.Domain.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821EAF8-6C09-482E-B8E3-06C61968D9FF}|NotesApp.Domain\\NotesApp.Domain.csproj|solutionrelative:notesapp.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821EAF8-6C09-482E-B8E3-06C61968D9FF}|NotesApp.Domain\\NotesApp.Domain.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.domain\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821EAF8-6C09-482E-B8E3-06C61968D9FF}|NotesApp.Domain\\NotesApp.Domain.csproj|solutionrelative:notesapp.domain\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821EAF8-6C09-482E-B8E3-06C61968D9FF}|NotesApp.Domain\\NotesApp.Domain.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821EAF8-6C09-482E-B8E3-06C61968D9FF}|NotesApp.Domain\\NotesApp.Domain.csproj|solutionrelative:notesapp.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.dataaccess\\implementations\\efimplementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|solutionrelative:notesapp.dataaccess\\implementations\\efimplementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.dataaccess\\implementations\\efimplementation\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|solutionrelative:notesapp.dataaccess\\implementations\\efimplementation\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.dataaccess\\implementations\\dapperimplementation\\notedapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|solutionrelative:notesapp.dataaccess\\implementations\\dapperimplementation\\notedapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.dataaccess\\implementations\\adonetimplementation\\noteadonetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|solutionrelative:notesapp.dataaccess\\implementations\\adonetimplementation\\noteadonetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.dataaccess\\context\\notesappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|solutionrelative:notesapp.dataaccess\\context\\notesappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.dataaccess\\extensions\\efextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|solutionrelative:notesapp.dataaccess\\extensions\\efextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB5836-49C1-4534-8252-B327E7E76D33}|NotesApp\\NotesApp.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB5836-49C1-4534-8252-B327E7E76D33}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB5836-49C1-4534-8252-B327E7E76D33}|NotesApp\\NotesApp.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB5836-49C1-4534-8252-B327E7E76D33}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB5836-49C1-4534-8252-B327E7E76D33}|NotesApp\\NotesApp.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp\\logs\\noteapplogs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1CB5836-49C1-4534-8252-B327E7E76D33}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\logs\\noteapplogs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3912EBE6-A34F-4723-B0A7-03ECDAFC17D2}|NotesApp.Tests\\NotesApp.Tests.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.tests\\noteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3912EBE6-A34F-4723-B0A7-03ECDAFC17D2}|NotesApp.Tests\\NotesApp.Tests.csproj|solutionrelative:notesapp.tests\\noteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3912EBE6-A34F-4723-B0A7-03ECDAFC17D2}|NotesApp.Tests\\NotesApp.Tests.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.tests\\fakerepositories\\fakeuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3912EBE6-A34F-4723-B0A7-03ECDAFC17D2}|NotesApp.Tests\\NotesApp.Tests.csproj|solutionrelative:notesapp.tests\\fakerepositories\\fakeuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3912EBE6-A34F-4723-B0A7-03ECDAFC17D2}|NotesApp.Tests\\NotesApp.Tests.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.tests\\fakerepositories\\fakenoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3912EBE6-A34F-4723-B0A7-03ECDAFC17D2}|NotesApp.Tests\\NotesApp.Tests.csproj|solutionrelative:notesapp.tests\\fakerepositories\\fakenoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.shared\\customexception\\notenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|solutionrelative:notesapp.shared\\customexception\\notenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.shared\\customexception\\userdataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|solutionrelative:notesapp.shared\\customexception\\userdataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.shared\\customexception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|solutionrelative:notesapp.shared\\customexception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.shared\\customexception\\notedataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|solutionrelative:notesapp.shared\\customexception\\notedataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA7B28D-FF06-4E0D-8719-478A520FD699}|NotesApp.Mappers\\NotesApp.Mappers.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.mappers\\notemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA7B28D-FF06-4E0D-8719-478A520FD699}|NotesApp.Mappers\\NotesApp.Mappers.csproj|solutionrelative:notesapp.mappers\\notemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA7B28D-FF06-4E0D-8719-478A520FD699}|NotesApp.Mappers\\NotesApp.Mappers.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.mappers\\notesapp.mappers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FA7B28D-FF06-4E0D-8719-478A520FD699}|NotesApp.Mappers\\NotesApp.Mappers.csproj|solutionrelative:notesapp.mappers\\notesapp.mappers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821EAF8-6C09-482E-B8E3-06C61968D9FF}|NotesApp.Domain\\NotesApp.Domain.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.domain\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821EAF8-6C09-482E-B8E3-06C61968D9FF}|NotesApp.Domain\\NotesApp.Domain.csproj|solutionrelative:notesapp.domain\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3821EAF8-6C09-482E-B8E3-06C61968D9FF}|NotesApp.Domain\\NotesApp.Domain.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.domain\\enums\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3821EAF8-6C09-482E-B8E3-06C61968D9FF}|NotesApp.Domain\\NotesApp.Domain.csproj|solutionrelative:notesapp.domain\\enums\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FB5DB-17CD-4C9D-B2E6-A51DB78A6BF3}|NoteApp.Dto\\NotesApp.Dto.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\noteapp.dto\\notesapp.dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{240FB5DB-17CD-4C9D-B2E6-A51DB78A6BF3}|NoteApp.Dto\\NotesApp.Dto.csproj|solutionrelative:noteapp.dto\\notesapp.dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6B6676-E626-4A5C-A0EF-4FC785988D92}|NotesApp.Helpers\\NotesApp.Helpers.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.helpers\\notesapp.helpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F6B6676-E626-4A5C-A0EF-4FC785988D92}|NotesApp.Helpers\\NotesApp.Helpers.csproj|solutionrelative:notesapp.helpers\\notesapp.helpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8445B24D-E2AD-4015-8E59-BE92008EA048}|NotesApp.Services\\NotesApp.Services.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.services\\notesapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8445B24D-E2AD-4015-8E59-BE92008EA048}|NotesApp.Services\\NotesApp.Services.csproj|solutionrelative:notesapp.services\\notesapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.shared\\notesapp.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7034B7AC-CADC-444F-8335-120E233BEF65}|NotesApp.Shared\\NotesApp.Shared.csproj|solutionrelative:notesapp.shared\\notesapp.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3912EBE6-A34F-4723-B0A7-03ECDAFC17D2}|NotesApp.Tests\\NotesApp.Tests.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.tests\\notesapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3912EBE6-A34F-4723-B0A7-03ECDAFC17D2}|NotesApp.Tests\\NotesApp.Tests.csproj|solutionrelative:notesapp.tests\\notesapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB5836-49C1-4534-8252-B327E7E76D33}|NotesApp\\NotesApp.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CB5836-49C1-4534-8252-B327E7E76D33}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CB5836-49C1-4534-8252-B327E7E76D33}|NotesApp\\NotesApp.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1CB5836-49C1-4534-8252-B327E7E76D33}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|c:\\users\\soske\\desktop\\notesapp\\notesapp\\notesapp.dataaccess\\migrations\\20241203163938_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56297FF6-D3EB-4818-B109-CFF91B178E60}|NotesApp.DataAccess\\NotesApp.DataAccess.csproj|solutionrelative:notesapp.dataaccess\\migrations\\20241203163938_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NoteApp.Dto\\UserDto\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "NoteApp.Dto\\UserDto\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NoteApp.Dto\\UserDto\\RegisterUserDto.cs",
+              "RelativeToolTip": "NoteApp.Dto\\UserDto\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:14:37.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NoteApp.Dto\\UserDto\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "NoteApp.Dto\\UserDto\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NoteApp.Dto\\UserDto\\LoginUserDto.cs",
+              "RelativeToolTip": "NoteApp.Dto\\UserDto\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:14:36.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Implementations\\EFImplementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "NotesApp.DataAccess\\Implementations\\EFImplementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Implementations\\EFImplementation\\UserRepository.cs",
+              "RelativeToolTip": "NotesApp.DataAccess\\Implementations\\EFImplementation\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:13:37.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Domain\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "NotesApp.Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Domain\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "NotesApp.Domain\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:08.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Domain\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NotesApp.Domain\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Domain\\Models\\Note.cs",
+              "RelativeToolTip": "NotesApp.Domain\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:06.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NotesApp.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Domain\\Models\\User.cs",
+              "RelativeToolTip": "NotesApp.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:04.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Helpers\\DependencyInjectionHelper.cs",
+              "RelativeDocumentMoniker": "NotesApp.Helpers\\DependencyInjectionHelper.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Helpers\\DependencyInjectionHelper.cs",
+              "RelativeToolTip": "NotesApp.Helpers\\DependencyInjectionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:34.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigurationsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Helpers\\ConfigurationsHelper.cs",
+              "RelativeDocumentMoniker": "NotesApp.Helpers\\ConfigurationsHelper.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Helpers\\ConfigurationsHelper.cs",
+              "RelativeToolTip": "NotesApp.Helpers\\ConfigurationsHelper.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:25.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesAppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\Configuration\\NotesAppSettings.cs",
+              "RelativeDocumentMoniker": "NotesApp.Shared\\Configuration\\NotesAppSettings.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\Configuration\\NotesAppSettings.cs",
+              "RelativeToolTip": "NotesApp.Shared\\Configuration\\NotesAppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:54.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Services\\Implementation\\NoteService.cs",
+              "RelativeDocumentMoniker": "NotesApp.Services\\Implementation\\NoteService.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Services\\Implementation\\NoteService.cs",
+              "RelativeToolTip": "NotesApp.Services\\Implementation\\NoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:54:42.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "NotesApp.Services\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "NotesApp.Services\\Implementation\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:54:58.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Implementations\\EFImplementation\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "NotesApp.DataAccess\\Implementations\\EFImplementation\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Implementations\\EFImplementation\\NoteRepository.cs",
+              "RelativeToolTip": "NotesApp.DataAccess\\Implementations\\EFImplementation\\NoteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:13:36.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NoteDapperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Implementations\\DapperImplementation\\NoteDapperRepository.cs",
+              "RelativeDocumentMoniker": "NotesApp.DataAccess\\Implementations\\DapperImplementation\\NoteDapperRepository.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Implementations\\DapperImplementation\\NoteDapperRepository.cs",
+              "RelativeToolTip": "NotesApp.DataAccess\\Implementations\\DapperImplementation\\NoteDapperRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:13:30.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NoteAdoNetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Implementations\\AdoNetImplementation\\NoteAdoNetRepository.cs",
+              "RelativeDocumentMoniker": "NotesApp.DataAccess\\Implementations\\AdoNetImplementation\\NoteAdoNetRepository.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Implementations\\AdoNetImplementation\\NoteAdoNetRepository.cs",
+              "RelativeToolTip": "NotesApp.DataAccess\\Implementations\\AdoNetImplementation\\NoteAdoNetRepository.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:13:10.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EFExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Extensions\\EFExtensions.cs",
+              "RelativeDocumentMoniker": "NotesApp.DataAccess\\Extensions\\EFExtensions.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Extensions\\EFExtensions.cs",
+              "RelativeToolTip": "NotesApp.DataAccess\\Extensions\\EFExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:12:57.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "NotesApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "NotesApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:12:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddNoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NoteApp.Dto\\NoteDto\\AddNoteDto.cs",
+              "RelativeDocumentMoniker": "NoteApp.Dto\\NoteDto\\AddNoteDto.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NoteApp.Dto\\NoteDto\\AddNoteDto.cs",
+              "RelativeToolTip": "NoteApp.Dto\\NoteDto\\AddNoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:20.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NoteApp.Dto\\NoteDto\\NoteDto.cs",
+              "RelativeDocumentMoniker": "NoteApp.Dto\\NoteDto\\NoteDto.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NoteApp.Dto\\NoteDto\\NoteDto.cs",
+              "RelativeToolTip": "NoteApp.Dto\\NoteDto\\NoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:20.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotesApp\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NotesApp\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:12:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "noteAppLogs.txt",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp\\Logs\\noteAppLogs.txt",
+              "RelativeDocumentMoniker": "NotesApp\\Logs\\noteAppLogs.txt",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp\\Logs\\noteAppLogs.txt",
+              "RelativeToolTip": "NotesApp\\Logs\\noteAppLogs.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-04T13:11:34.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FakeUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Tests\\FakeRepositories\\FakeUserRepository.cs",
+              "RelativeDocumentMoniker": "NotesApp.Tests\\FakeRepositories\\FakeUserRepository.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Tests\\FakeRepositories\\FakeUserRepository.cs",
+              "RelativeToolTip": "NotesApp.Tests\\FakeRepositories\\FakeUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:11:12.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FakeNoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Tests\\FakeRepositories\\FakeNoteRepository.cs",
+              "RelativeDocumentMoniker": "NotesApp.Tests\\FakeRepositories\\FakeNoteRepository.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Tests\\FakeRepositories\\FakeNoteRepository.cs",
+              "RelativeToolTip": "NotesApp.Tests\\FakeRepositories\\FakeNoteRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:11:05.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NoteNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\CustomException\\NoteNotFoundException.cs",
+              "RelativeDocumentMoniker": "NotesApp.Shared\\CustomException\\NoteNotFoundException.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\CustomException\\NoteNotFoundException.cs",
+              "RelativeToolTip": "NotesApp.Shared\\CustomException\\NoteNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:11:01.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDataException.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\CustomException\\UserDataException.cs",
+              "RelativeDocumentMoniker": "NotesApp.Shared\\CustomException\\UserDataException.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\CustomException\\UserDataException.cs",
+              "RelativeToolTip": "NotesApp.Shared\\CustomException\\UserDataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:11:00.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotesAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Context\\NotesAppDbContext.cs",
+              "RelativeDocumentMoniker": "NotesApp.DataAccess\\Context\\NotesAppDbContext.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Context\\NotesAppDbContext.cs",
+              "RelativeToolTip": "NotesApp.DataAccess\\Context\\NotesAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:49:43.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\CustomException\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "NotesApp.Shared\\CustomException\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\CustomException\\UserNotFoundException.cs",
+              "RelativeToolTip": "NotesApp.Shared\\CustomException\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:59.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NoteDataException.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\CustomException\\NoteDataException.cs",
+              "RelativeDocumentMoniker": "NotesApp.Shared\\CustomException\\NoteDataException.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\CustomException\\NoteDataException.cs",
+              "RelativeToolTip": "NotesApp.Shared\\CustomException\\NoteDataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:57.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NoteMapper.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Mappers\\NoteMapper.cs",
+              "RelativeDocumentMoniker": "NotesApp.Mappers\\NoteMapper.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Mappers\\NoteMapper.cs",
+              "RelativeToolTip": "NotesApp.Mappers\\NoteMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:38.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NoteServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Tests\\NoteServiceTests.cs",
+              "RelativeDocumentMoniker": "NotesApp.Tests\\NoteServiceTests.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Tests\\NoteServiceTests.cs",
+              "RelativeToolTip": "NotesApp.Tests\\NoteServiceTests.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:00:44.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Domain\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "NotesApp.Domain\\Enums\\Priority.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Domain\\Enums\\Priority.cs",
+              "RelativeToolTip": "NotesApp.Domain\\Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:12.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Domain\\Enums\\Tag.cs",
+              "RelativeDocumentMoniker": "NotesApp.Domain\\Enums\\Tag.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Domain\\Enums\\Tag.cs",
+              "RelativeToolTip": "NotesApp.Domain\\Enums\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:10:11.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NotesApp.Mappers",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Mappers\\NotesApp.Mappers.csproj",
+              "RelativeDocumentMoniker": "NotesApp.Mappers\\NotesApp.Mappers.csproj",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Mappers\\NotesApp.Mappers.csproj",
+              "RelativeToolTip": "NotesApp.Mappers\\NotesApp.Mappers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T13:09:55.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NotesApp.Dto",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NoteApp.Dto\\NotesApp.Dto.csproj",
+              "RelativeDocumentMoniker": "NoteApp.Dto\\NotesApp.Dto.csproj",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NoteApp.Dto\\NotesApp.Dto.csproj",
+              "RelativeToolTip": "NoteApp.Dto\\NotesApp.Dto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T13:10:01.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NotesApp.Helpers",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Helpers\\NotesApp.Helpers.csproj",
+              "RelativeDocumentMoniker": "NotesApp.Helpers\\NotesApp.Helpers.csproj",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Helpers\\NotesApp.Helpers.csproj",
+              "RelativeToolTip": "NotesApp.Helpers\\NotesApp.Helpers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T13:09:58.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NotesApp.Services",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Services\\NotesApp.Services.csproj",
+              "RelativeDocumentMoniker": "NotesApp.Services\\NotesApp.Services.csproj",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Services\\NotesApp.Services.csproj",
+              "RelativeToolTip": "NotesApp.Services\\NotesApp.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T13:09:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NotesApp.Shared",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\NotesApp.Shared.csproj",
+              "RelativeDocumentMoniker": "NotesApp.Shared\\NotesApp.Shared.csproj",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Shared\\NotesApp.Shared.csproj",
+              "RelativeToolTip": "NotesApp.Shared\\NotesApp.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T13:09:51.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NotesApp.Tests",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Tests\\NotesApp.Tests.csproj",
+              "RelativeDocumentMoniker": "NotesApp.Tests\\NotesApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.Tests\\NotesApp.Tests.csproj",
+              "RelativeToolTip": "NotesApp.Tests\\NotesApp.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T13:09:48.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241203163938_Test.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Migrations\\20241203163938_Test.cs",
+              "RelativeDocumentMoniker": "NotesApp.DataAccess\\Migrations\\20241203163938_Test.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp.DataAccess\\Migrations\\20241203163938_Test.cs",
+              "RelativeToolTip": "NotesApp.DataAccess\\Migrations\\20241203163938_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:39:39.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp\\Program.cs",
+              "RelativeDocumentMoniker": "NotesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp\\Program.cs",
+              "RelativeToolTip": "NotesApp\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:27:07.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp\\appsettings.json",
+              "RelativeDocumentMoniker": "NotesApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\soske\\Desktop\\NotesApp\\NotesApp\\NotesApp\\appsettings.json",
+              "RelativeToolTip": "NotesApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T21:20:49.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
